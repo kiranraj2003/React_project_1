@@ -1,0 +1,22 @@
+.Header{
+    margin: auto;
+    padding: 20px;
+   
+    text-align: center;
+    height:7vh;
+    width: 100%;
+    font-size: large;
+}
+
+.navbar li:hover{
+    box-sizing: border-box;
+    border-bottom: 3px solid    rgb(158, 158, 184);
+  
+}
+.navbar li {
+    display: inline-block;
+    padding: 5px 10px; 
+    border-bottom: 3px solid transparent;
+    transition: border-color 0.3s ease; 
+    
+}

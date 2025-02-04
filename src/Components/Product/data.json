@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "main_image": "./images/AppleiPhone15ProMax/two.jpeg",
+    "sub_images": [
+      "./images/AppleiPhone15ProMax/one.jpeg",
+      "./images/AppleiPhone15ProMax/two.jpeg",
+      "./images/AppleiPhone15ProMax/three.jpeg",
+      "./images/AppleiPhone15ProMax/four.jpeg",
+      "./images/AppleiPhone15ProMax/five.jpeg",
+      "./images/AppleiPhone15ProMax/six.jpeg"
+    ],
+    "mobile_name": "iPhone 15 Pro Max",
+    "brand_name": "Apple",
+    "model_name": "A3102",
+    "price":144900,
+    "specifications": {
+      "processor": "A17 Pro",
+      "ram": "8GB",
+      "storage": "1TB",
+      "battery": "4350mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "display": "6.7-inch Super Retina XDR"
+    },
+    "color": "Titanium Blue",
+    "warranty": "1 year",
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "main_image": "./images/S23Ultra/five.jpeg",
+  
+    "sub_images": [
+      "./images/S23Ultra/five.jpeg", 
+    "./images/S23Ultra/one.jpeg", 
+    "./images/S23Ultra/two.jpeg",
+     "./images/S23Ultra/three.jpeg",
+      "./images/S23Ultra/four.jpeg", 
+      "./images/S23Ultra/six.jpeg"]
+      , 
+    "mobile_name": "Galaxy S23 Ultra",
+    "brand_name": "Samsung",
+    "model_name": "SM-S918B",
+    "price":74990,
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 12MP + 10MP + 10MP",
+      "display": "6.8-inch AMOLED"
+    },
+    "color": "Phantom Black",
+    "warranty": "1 year",
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "main_image": "./images/OnePlus11R5G/one.jpeg",
+    "sub_images": [
+      "./images/OnePlus11R5G/one.jpeg",
+      "./images/OnePlus11R5G/two.jpeg",
+      "./images/OnePlus11R5G/three.jpeg",
+      "./images/OnePlus11R5G/four.jpeg",
+      "./images/OnePlus11R5G/five.jpeg",
+      "./images/OnePlus11R5G/six.jpeg"
+    ],
+    "mobile_name": "OnePlus 11R",
+    "brand_name": "OnePlus",
+    "model_name": "CPH2449",
+    "price":44990,
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 32MP",
+      "display": "6.7-inch Fluid AMOLED"
+    },
+    "color": "Eternal Green",
+    "warranty": "1 year",
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "main_image": "./images/Pixel8Pro/one.jpeg",
+    "sub_images": [
+      "./images/Pixel8Pro/one.jpeg",
+      "./images/Pixel8Pro/two.jpeg",
+      "./images/Pixel8Pro/three.jpeg",
+      "./images/Pixel8Pro/four.jpeg",
+      "./images/Pixel8Pro/five.jpeg",
+      "./images/Pixel8Pro/four.jpeg"
+    ],
+    "mobile_name": "Google Pixel 8 Pro",
+    "brand_name": "Google",
+    "model_name": "GA04925-US",
+    "price":84990,
+    "specifications": {
+      "processor": "Google Tensor G3",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5100mAh",
+      "camera": "50MP + 48MP + 12MP",
+      "display": "6.7-inch LTPO OLED"
+    },
+    "color": "Obsidian",
+    "warranty": "2 years",
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "main_image": "./images/REDMINote13Pro5G/one.jpeg",
+    "sub_images": [
+      "./images/REDMINote13Pro5G/one.jpeg",
+      "./images/REDMINote13Pro5G/two.jpeg",
+      "./images/REDMINote13Pro5G/three.jpeg",   
+    "./images/REDMINote13Pro5G/four.jpeg",
+  "./images/REDMINote13Pro5G/five.jpeg",
+  "./images/REDMINote13Pro5G/six.jpeg"],
+    "mobile_name": "Redmi Note 13 Pro",
+    "brand_name": "Redmi",
+    "model_name": "2210132C",
+    "price":24990,
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4820mAh",
+      "camera": "50MP + 50MP + 50MP",
+      "display": "6.73-inch AMOLED"
+    },
+    "color": "Ceramic White",
+    "warranty": "1 year",
+    "quantity": 0
+
+  },
+  {
+    "id": 6,
+    "main_image": "./images/realmeGTNeo3/one.jpeg",
+    "sub_images": [
+       "./images/realmeGTNeo3/one.jpeg",
+        "./images/realmeGTNeo3/two.jpeg",
+         "./images/realmeGTNeo3/three.jpeg",
+          "./images/realmeGTNeo3/four.jpeg", 
+          "./images/realmeGTNeo3/five.jpeg",
+           "./images/realmeGTNeo3/six.jpeg"
+     
+    ],
+    "mobile_name": "Realme GT Neo 3",
+    "brand_name": "Realme",
+    "model_name": "RMX3708",
+    "price":22990,
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "16GB",
+      "storage": "256GB",
+      "battery": "4600mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.74-inch AMOLED"
+    },
+    "color": "Nitro Blue",
+    "warranty": "1 year",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "main_image": "./images/vivoX90Pro/one.jpeg",
+    "sub_images": [
+      "./images/vivoX90Pro/one.jpeg",
+      "./images/vivoX90Pro/two.jpeg",
+      "./images/vivoX90Pro/three.jpeg",
+      "./images/vivoX90Pro/four.jpeg",
+      "./images/vivoX90Pro/five.jpeg",
+      "./images/vivoX90Pro/six.jpeg"
+  ],
+    "mobile_name": "Vivo X90 Pro",
+    "brand_name": "Vivo",
+    "model_name": "V2219",
+    "price":74999,
+    "specifications": {
+      "processor": "MediaTek Dimensity 9200",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4870mAh",
+      "camera": "50MP + 50MP + 12MP",
+      "display": "6.78-inch AMOLED"
+    },
+    "color": "Legend Black",
+    "warranty": "2 years",
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "main_image": "./images/OppoReno10Pro5G/one.jpeg",
+    "sub_images": ["./images/OppoReno10Pro5G/one.jpeg",
+    "./images/OppoReno10Pro5G/two.jpeg",
+    "./images/OppoReno10Pro5G/three.jpeg",
+    "./images/OppoReno10Pro5G/four.jpeg",
+    "./images/OppoReno10Pro5G/five.jpeg",
+    "./images/OppoReno10Pro5G/six.jpeg"],
+    "mobile_name": "Oppo Reno 10 Pro",
+    "brand_name": "Oppo",
+    "model_name": "CPH2525",
+    "price":37999,
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4600mAh",
+      "camera": "64MP + 32MP + 8MP",
+      "display": "6.7-inch AMOLED"
+    },
+    "color": "Glossy Purple",
+    "warranty": "1 year",
+    "quantity": 0
+  }
+]

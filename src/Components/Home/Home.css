@@ -1,0 +1,13 @@
+.imgcon{
+
+    height: 25vh;
+    /* background-color: aqua; */
+}
+.imgcon img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+.imgcon img:hover{
+    transform: scale(1.1);
+}
